@@ -3,7 +3,7 @@
 # Author:      Dai shaoqing
 #
 # Created:     04/25/2017
-# Copyright:   (c) Shaoqing Dai <dsq1993qingge@163.com> 2017
+# Copyright:   (c) Dai shaoqing <dsq1993qingge@163.com> 2017
 #------------------------------------------------------------
 #载入包
 #如果没安装，请先安装，如果已安装，请注释
