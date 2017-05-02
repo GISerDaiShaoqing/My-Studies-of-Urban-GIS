@@ -1,5 +1,5 @@
 # Name: The visualization of OLS in ArcGIS(for R)
-# Purpose: 
+# Purpose: The function to visualize results of OLS in ArcGIS
 # Author:      Dai shaoqing
 #
 # Created:     04/25/2017
