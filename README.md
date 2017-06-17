@@ -29,4 +29,4 @@ It's my classmate's homework with my help. The homework is about the relationshi
 >https://giserdaishaoqing.github.io/2017/04/24/R%E8%AF%AD%E8%A8%80%E8%AF%BB%E5%8F%96%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E4%BB%A5%E5%8F%8AArcGIS%E4%B8%ADOLS%E5%B7%A5%E5%85%B7%E5%9B%9E%E5%BD%92%E7%BB%93%E6%9E%9C%E5%8F%AF%E8%A7%86%E5%8C%96R%E8%AF%AD%E8%A8%80%E7%89%88/
 
 ### 2.北京地区AQI和百度搜索指数研究
-这是我帮我同学一起完成的一份课程作业。作业中主要探究的是北京区域AQI和百度搜索指数的关系，2015年，北京大学的刘瑜老师发表了“社会感知：一种全新的感知社会经济环境的方法”这篇论文，作业中的数据是典型的社会感知数据。我认为研究这个非常有趣。
+这是我帮我同学一起完成的一份课程作业。作业中主要探究的是北京区域AQI和百度搜索指数的关系，2015年，北京大学的刘瑜老师发表了“社会感知：一种全新的感知社会经济环境的方法”这篇论文，作业中的数据是典型的社会感知数据。这个研究比较有趣。
