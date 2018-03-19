@@ -16,9 +16,9 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 # My-Studies-of-Urban-GIS
 
-**Author:** Dai Shaoqing
-
-**E-mails:** dsq1993qingge@163.com. 
+|Author|Dai Shaoqing|
+|---|---
+|E-mail|dsq1993qingge@163.com
 
 **Other E-mails:**
 >* giser1993dsq@gmail.com. 
@@ -56,9 +56,9 @@ details:
 
 # 我的城市GIS研究
 
-**作者：** 戴劭勍
-
-**邮箱：** dsq1993qingge@163.com. 
+|作者|戴劭勍|
+|---|---
+|邮箱|dsq1993qingge@163.com
 
 **其他邮箱:**
 >* giser1993dsq@gmail.com. 
