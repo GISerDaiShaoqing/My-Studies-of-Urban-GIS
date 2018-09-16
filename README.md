@@ -22,7 +22,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 Some code of my studies about Urban(based on R, Matlab, Python, CGA and so on). 
 
-[Chinese Documents](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/READMEcn.md)
+[Chinese Documents](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS//blob/master/READMEcn.md)
 
 ## 1.The visualization of OLS in ArcGIS(for R)
 details:
