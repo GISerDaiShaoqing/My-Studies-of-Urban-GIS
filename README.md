@@ -47,3 +47,13 @@ details:
 
 ![](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/4.How%20to%20draw%20a%20world%20map%20where%20china%20locate%20at%20the%20middle%20of%20map(for%20R)/Rproject/output/ZSXvolunteer.gif)
 
+## 5.Choose a better method of cartogram
+details:
+>[Choose a better method of cartogram](http://gisersqdai.top/2018/10/08/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E9%80%89%E6%8B%A9%E4%B8%80%E7%A7%8D%E5%9C%B0%E5%9B%BE%E5%8F%98%E5%BD%A2%E6%96%B9%E5%BC%8F/)
+
+![](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/5.Choose%20a%20better%20a%20method%20of%20cartogram(for%20R)/output/cartogram.gif)
+
+The tutorial data can download from [this link](http://geodoi.ac.cn/WebCn/doi.aspx?Id=535). If you used the data, please cited as follow:
+
+谈明洪,李仕冀,孙志刚,李秀彬.内蒙古自治区乡村人口迁出对植被影响数据集（2000-2010）[DB/OL].全球变化科学研究数据出版系统,2016.DOI:10.3974/geodb.2016.06.05.V1.
+

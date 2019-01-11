@@ -45,3 +45,13 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 >[如何实现一个以中国为中心的世界地图](https://giserdaishaoqing.github.io/2017/11/14/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E4%BB%A5%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE/)
 
 ![](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/4.How%20to%20draw%20a%20world%20map%20where%20china%20locate%20at%20the%20middle%20of%20map(for%20R)/Rproject/output/ZSXvolunteer.gif)
+
+## 5.如何优雅地选择一种地图变形方式(R)
+details:
+>[如何优雅地选择一种地图变形方式](http://gisersqdai.top/2018/10/08/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E9%80%89%E6%8B%A9%E4%B8%80%E7%A7%8D%E5%9C%B0%E5%9B%BE%E5%8F%98%E5%BD%A2%E6%96%B9%E5%BC%8F/)
+
+![](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/5.Choose%20a%20better%20a%20method%20of%20cartogram(for%20R)/output/cartogram.gif)
+
+教程数据可以从[这里](http://geodoi.ac.cn/WebCn/doi.aspx?Id=535)下载，如果你使用了这份数据，请按照以下格式进行引用:
+
+谈明洪,李仕冀,孙志刚,李秀彬.内蒙古自治区乡村人口迁出对植被影响数据集（2000-2010）[DB/OL].全球变化科学研究数据出版系统,2016.DOI:10.3974/geodb.2016.06.05.V1.
