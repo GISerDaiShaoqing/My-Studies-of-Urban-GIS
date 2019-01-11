@@ -6,6 +6,7 @@ Table of Contents
   * [2\.北京地区AQI和百度搜索指数研究(R）](#2%E5%8C%97%E4%BA%AC%E5%9C%B0%E5%8C%BAaqi%E5%92%8C%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E6%8C%87%E6%95%B0%E7%A0%94%E7%A9%B6r)
   * [3\.基于folium的空间可视化的样例（Python）](#3%E5%9F%BA%E4%BA%8Efolium%E7%9A%84%E7%A9%BA%E9%97%B4%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9A%84%E6%A0%B7%E4%BE%8Bpython)
   * [4\.如何实现一个以中国为中心的世界地图(R)](#4%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E4%BB%A5%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BEr)
+  * [5\.如何优雅地选择一种地图变形方式(R)](#5%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E9%80%89%E6%8B%A9%E4%B8%80%E7%A7%8D%E5%9C%B0%E5%9B%BE%E5%8F%98%E5%BD%A2%E6%96%B9%E5%BC%8Fr)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 

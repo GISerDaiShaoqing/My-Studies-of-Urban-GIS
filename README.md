@@ -1,11 +1,12 @@
 Table of Contents
 =================
 
-* [My\-Studies\-of\-Urban\-GIS](#my-studies-of-urban-gis)
+* [My Studies of Urban GIS](#my-studies-of-urban-gis)
   * [1\.The visualization of OLS in ArcGIS(for R)](#1the-visualization-of-ols-in-arcgisfor-r)
   * [2\.AQI&amp;Search Index in Beijing(for R)](#2aqisearch-index-in-beijingfor-r)
   * [3\.Spatial visualization demo in folium (for Python)](#3spatial-visualization-demo-in-folium-for-python)
   * [4\.How to draw a world map where china locate at the middle of map(for R)](#4how-to-draw-a-world-map-where-china-locate-at-the-middle-of-mapfor-r)
+  * [5\.Choose a better method of cartogram(for R)](#5choose-a-better-method-of-cartogramfor-r)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
