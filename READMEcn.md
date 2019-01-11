@@ -50,7 +50,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 details:
 >[如何优雅地选择一种地图变形方式](http://gisersqdai.top/2018/10/08/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E9%80%89%E6%8B%A9%E4%B8%80%E7%A7%8D%E5%9C%B0%E5%9B%BE%E5%8F%98%E5%BD%A2%E6%96%B9%E5%BC%8F/)
 
-![](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/5.Choose%20a%20better%20a%20method%20of%20cartogram(for%20R)/output/cartogram.gif)
+![](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/5.Choos%20a%20better%20method%20of%20cartogram(for%20R)/output/cartogram.gif)
 
 教程数据可以从[这里](http://geodoi.ac.cn/WebCn/doi.aspx?Id=535)下载，如果你使用了这份数据，请按照以下格式进行引用:
 
