@@ -54,7 +54,7 @@ details:
 
 ![](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/5.Choos%20a%20better%20method%20of%20cartogram(for%20R)/output/cartogram.gif)
 
-The tutorial data can download from [this link](http://geodoi.ac.cn/WebCn/doi.aspx?Id=535). If you used the data, please cited as follow:
+The tutorial data can be downloaded from [this link](http://geodoi.ac.cn/WebCn/doi.aspx?Id=535). If you used the data, please cited as follow:
 
 Tan Minghong,Li Shiji,Sun Zhigang,Li Xiubin.Vegetation Cover Change on Rural-urban Migration in Inner Mongolia, China[DB/OL].Global Change Research Data Publishing & Repository,2016.DOI:10.3974/geodb.2016.06.05.V1.
 
