@@ -1,3 +1,11 @@
+# Name: Cartogram(for R)
+# Purpose: Choose a better method of cartogram
+# Author:      Dai shaoqing
+#
+# Created:     10/08/2018
+# Copyright:   (c) Dai shaoqing <dsq1993qingge@163.com> 2018
+#------------------------------------------------------------
+#Load packages
 library(cartogram)
 library(rgeos)
 library(maptools)
