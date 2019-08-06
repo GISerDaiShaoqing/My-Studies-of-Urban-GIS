@@ -16,11 +16,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 |---|---|
 |邮箱|dsq1993qingge@163.com|
 
-**其他邮箱:**
->* giser1993dsq@gmail.com. 
->* sqdai@iue.ac.cn. 
->* daishaoqing16@mails.ucas.ac.cn.
-
 关于个人城市GIS研究中的一些可以开放的代码（基于R，Matlab，Python,CGA和其他一些语言）。
 
 [English Documents](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS)

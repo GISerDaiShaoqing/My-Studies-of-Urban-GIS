@@ -16,11 +16,6 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 |---|---|
 |E-mail|dsq1993qingge@163.com|
 
-**Other E-mails:**
->* giser1993dsq@gmail.com. 
->* sqdai@iue.ac.cn. 
->* daishaoqing16@mails.ucas.ac.cn.
-
 Some code of my studies about Urban(based on R, Matlab, Python, CGA and so on). 
 
 [Chinese Documents](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS//blob/master/READMEcn.md)
