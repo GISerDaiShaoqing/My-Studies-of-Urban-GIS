@@ -40,7 +40,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 细节:
 >[如何实现一个以中国为中心的世界地图](https://giserdaishaoqing.github.io/2017/11/14/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E4%BB%A5%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE/)
 
-![](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/4.How%20to%20draw%20a%20world%20map%20where%20china%20locate%20at%20the%20middle%20of%20map(for%20R)/Rproject/output/ZSXvolunteer.gif)
+![](https://github.com/GISerDaiShaoqing/My-Studies-of-Urban-GIS/blob/master/4.How%20to%20draw%20a%20world%20map%20where%20china%20locate%20at%20the%20middle%20of%20map(for%20R)/Rproject/output/15855136767897p7w4zvv.png)
 
 ## 5.如何优雅地选择一种地图变形方式(R)
 details:
