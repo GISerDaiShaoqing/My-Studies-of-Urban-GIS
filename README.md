@@ -7,6 +7,9 @@ Table of Contents
   * [3\.Spatial visualization demo in folium (for Python)](#3spatial-visualization-demo-in-folium-for-python)
   * [4\.How to draw a world map where china locate at the middle of map(for R)](#4how-to-draw-a-world-map-where-china-locate-at-the-middle-of-mapfor-r)
   * [5\.Choose a better method of cartogram(for R)](#5choose-a-better-method-of-cartogramfor-r)
+  * [6\.The visualization of quantile plots and maps of China(for R)](#6The-visualization-of-quantile-plots-and-maps-of-Chinafor-R)
+  * [7\.The visualization of voronoi treemap(for R)](#7the-visualization-of-voronoi-treemapfor-r)
+  * [8\.Read the large NetCDF file using R](#8read-the-large-netcdf-file-using-r)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
@@ -53,3 +56,23 @@ The tutorial data can be downloaded from [this link](http://geodoi.ac.cn/WebCn/d
 
 Tan Minghong,Li Shiji,Sun Zhigang,Li Xiubin.Vegetation Cover Change on Rural-urban Migration in Inner Mongolia, China[DB/OL].Global Change Research Data Publishing & Repository,2016.DOI:10.3974/geodb.2016.06.05.V1.
 
+
+## 6.The visualization of quantile plots and maps of China(for R)
+details:
+>[The visualization of quantile plots and maps of China(for R)](https://gisersqdai.top/2019/11/03/%E5%B8%A6%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E5%88%86%E4%BD%8D%E6%95%B0%E5%9C%B0%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%88R%E8%AF%AD%E8%A8%80%E7%89%88%EF%BC%89/)
+
+![](https://blog.gisersqdai.top/15736114026638ki0bnu5.png)
+
+[Python version from allenLu2008](https://blog.csdn.net/allenlu2008/article/details/102693850)
+
+## 7.The visualization of voronoi treemap(for R)
+details:
+>[The visualization of voronoi treemap(for R)](https://gisersqdai.top/2020/03/31/R%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0voronoi-treemap%E5%8F%AF%E8%A7%86%E5%8C%96/)
+
+![](https://blog.gisersqdai.top/1585691313891zze9i6j1.png)
+
+## 8.Read the large NetCDF file using R
+details:
+>[Read the large NetCDF file using R](https://gisersqdai.top/2024/03/10/R%E8%AF%AD%E8%A8%80%E8%AF%BB%E5%8F%96%E5%A4%A7%E5%9E%8BNetCDF%E6%96%87%E4%BB%B6/)
+
+![](https://blog.gisersqdai.top/1710077332798baid8azq.png)
