@@ -7,10 +7,9 @@ Table of Contents
   * [3\.基于folium的空间可视化的样例（Python）](#3%E5%9F%BA%E4%BA%8Efolium%E7%9A%84%E7%A9%BA%E9%97%B4%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9A%84%E6%A0%B7%E4%BE%8Bpython)
   * [4\.如何实现一个以中国为中心的世界地图(R)](#4%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E4%BB%A5%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BEr)
   * [5\.如何优雅地选择一种地图变形方式(R)](#5%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E9%80%89%E6%8B%A9%E4%B8%80%E7%A7%8D%E5%9C%B0%E5%9B%BE%E5%8F%98%E5%BD%A2%E6%96%B9%E5%BC%8Fr)
-  * [6\.带南海九段线分位数地图可视化（R语言版）](#6https://gisersqdai.top/2019/11/03/%E5%B8%A6%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E5%88%86%E4%BD%8D%E6%95%B0%E5%9C%B0%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%88R%E8%AF%AD%E8%A8%80%E7%89%88%EF%BC%89/)
-  * [7\.R语言实现voronoi treemap可视化](#7https://gisersqdai.top/2020/03/31/R%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0voronoi-treemap%E5%8F%AF%E8%A7%86%E5%8C%96/)
-  * [8\.R语言读取大型NetCDF文件](#8https://gisersqdai.top/2024/03/10/R%E8%AF%AD%E8%A8%80%E8%AF%BB%E5%8F%96%E5%A4%A7%E5%9E%8BNetCDF%E6%96%87%E4%BB%B6/)
-
+  * [6\.带南海九段线分位数地图可视化（R语言版）](#6%E5%B8%A6%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E5%88%86%E4%BD%8D%E6%95%B0%E5%9C%B0%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%88R%E8%AF%AD%E8%A8%80%E7%89%88%EF%BC%89)
+  * [7\.R语言实现voronoi treemap可视化](#7R%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0voronoi%20treemap%E5%8F%AF%E8%A7%86%E5%8C%96)
+  * [8\.R语言读取大型NetCDF文件](#8R%E8%AF%AD%E8%A8%80%E8%AF%BB%E5%8F%96%E5%A4%A7%E5%9E%8BNetCDF%E6%96%87%E4%BB%B6)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
@@ -56,22 +55,22 @@ details:
 
 谈明洪,李仕冀,孙志刚,李秀彬.内蒙古自治区乡村人口迁出对植被影响数据集（2000-2010）[DB/OL].全球变化科学研究数据出版系统,2016.DOI:10.3974/geodb.2016.06.05.V1.
 
-## 6.The visualization of quantile plots and maps of China(for R)
+## 6.带南海九段线分位数地图可视化（R语言版）
 details:
->[The visualization of quantile plots and maps of China(for R)](https://gisersqdai.top/2019/11/03/%E5%B8%A6%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E5%88%86%E4%BD%8D%E6%95%B0%E5%9C%B0%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%88R%E8%AF%AD%E8%A8%80%E7%89%88%EF%BC%89/)
+>[带南海九段线分位数地图可视化（R语言版）](https://gisersqdai.top/2019/11/03/%E5%B8%A6%E5%8D%97%E6%B5%B7%E4%B9%9D%E6%AE%B5%E7%BA%BF%E5%88%86%E4%BD%8D%E6%95%B0%E5%9C%B0%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%88R%E8%AF%AD%E8%A8%80%E7%89%88%EF%BC%89/)
 
 ![](https://blog.gisersqdai.top/15736114026638ki0bnu5.png)
 
-[Python version from allenLu2008](https://blog.csdn.net/allenlu2008/article/details/102693850)
+[Python实现带南海九段线分位数地图完整可视化版本（附代码及数据）](https://blog.csdn.net/allenlu2008/article/details/102693850)
 
-## 7.The visualization of voronoi treemap(for R)
+## 7.R语言实现voronoi treemap可视化
 details:
->[The visualization of voronoi treemap(for R)](https://gisersqdai.top/2020/03/31/R%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0voronoi-treemap%E5%8F%AF%E8%A7%86%E5%8C%96/)
+>[R语言实现voronoi treemap可视化](https://gisersqdai.top/2020/03/31/R%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0voronoi-treemap%E5%8F%AF%E8%A7%86%E5%8C%96/)
 
 ![](https://blog.gisersqdai.top/1585691313891zze9i6j1.png)
 
-## 8.Read the large NetCDF file using R
+## 8.R语言读取大型NetCDF文件
 details:
->[Read the large NetCDF file using R](https://gisersqdai.top/2024/03/10/R%E8%AF%AD%E8%A8%80%E8%AF%BB%E5%8F%96%E5%A4%A7%E5%9E%8BNetCDF%E6%96%87%E4%BB%B6/)
+>[R语言读取大型NetCDF文件](https://gisersqdai.top/2024/03/10/R%E8%AF%AD%E8%A8%80%E8%AF%BB%E5%8F%96%E5%A4%A7%E5%9E%8BNetCDF%E6%96%87%E4%BB%B6/)
 
 ![](https://blog.gisersqdai.top/1710077332798baid8azq.png)
